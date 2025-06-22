@@ -16,4 +16,12 @@
 
 **Today's Progress**: I started with the challenge! And I also started with the restoration of a website I designed for the company K-Ray accessories.
 
-**Thoughts** It feels good to get back to coding after the exam week. I have a week off so let's give it my all!
+**Thoughts**: It feels good to get back to coding after the exam week. I have a week off so let's give it my all!
+
+### Day 2: June 22, Sunday
+
+**Today's Progress**: I continued with the restoration, changed the fonts and was re-downloading the photos.
+
+**Thoughts**: The truth is that after reviewing some html things that I had forgotten, it's amazing how much information there is on the internet. I am excited to know that there is so much to learn.
+
+**Link(s) to work**: [Commit of today] (https://github.com/alex-gamero/K-Ray/commit/3d03a67ab7e2b1487526e881af09a252bbfc60c9)
