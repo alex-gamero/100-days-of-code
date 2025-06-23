@@ -25,3 +25,11 @@
 **Thoughts**: The truth is that after reviewing some html things that I had forgotten, it's amazing how much information there is on the internet. I am excited to know that there is so much to learn.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/3d03a67ab7e2b1487526e881af09a252bbfc60c9)
+
+### Day 3: June 23, Monday
+
+**Today's Progress**: I continued with the restoration and just started with the decoration of the page, changing the background colors and fonts, I also started adding the photos and the main part is complete.
+
+**Thoughts**: Today's code felt very good, I was able to advance what I had in mind and I felt more adapted to the coding of the page in general.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/f8c0045afebe35255c84729a5618e27e9e742c91)
