@@ -11,3 +11,4 @@ I started the restoration of the K-Ray accessories web site.
 I continued with the restoration
 
 ### R1D3
+I continued with the restoration, photos and more pastel colors were added to the background of the web site.
