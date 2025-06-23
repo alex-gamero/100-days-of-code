@@ -33,3 +33,5 @@
 **Thoughts**: Today's code felt very good, I was able to advance what I had in mind and I felt more adapted to the coding of the page in general.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/f8c0045afebe35255c84729a5618e27e9e742c91)
+
+### Day 4: June 24, Tuesday
