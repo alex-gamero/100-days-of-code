@@ -35,3 +35,9 @@
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/f8c0045afebe35255c84729a5618e27e9e742c91)
 
 ### Day 4: June 24, Tuesday
+
+**Today's Progress**: Today I create the footer with a new multi-column layout, added social media and benefits sections, and included new images for icons and payment methods. Introduced a floating WhatsApp contact button for improved user engagement. Updated colour palette and enhanced responsive styles for better mobile compatibility.
+
+**Thoughts**: It was a little more complicated than I thought to make the footer, I have to brush up a little more for that kind of thing, making a flex box or grid was more difficult than usual.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/109cecca53f95412c74088e9c5591e1213052469)
