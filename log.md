@@ -41,3 +41,12 @@
 **Thoughts**: It was a little more complicated than I thought to make the footer, I have to brush up a little more for that kind of thing, making a flex box or grid was more difficult than usual.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/109cecca53f95412c74088e9c5591e1213052469)
+
+### Day 5: June 25, Wednesday
+
+**Today's Progress**: Today I started with the part of the products, there was a great advance, I still need some photos and data but it is almost ready.
+
+**Thoughts**: Today's code felt good, I was able to make the progress I wanted to make and there were no complications.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/6c97604183a226ef813762ef8cc553a69ae74ec2)
+

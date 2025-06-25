@@ -15,3 +15,6 @@ I continued with the restoration, photos and more pastel colors were added to th
 
 ### R1D4
 I continued with the restoration, I am very close to finishing the footer, I feel good about today's work.
+
+### R1D5
+I continued with the restoration, I am very close to finishing the product section.
