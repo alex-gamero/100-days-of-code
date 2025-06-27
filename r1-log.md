@@ -18,3 +18,6 @@ I continued with the restoration, I am very close to finishing the footer, I fee
 
 ### R1D5
 I continued with the restoration, I am very close to finishing the product section.
+
+### R1D6
+I started with a new project, my personal web site!!!
