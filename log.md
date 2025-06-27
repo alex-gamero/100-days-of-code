@@ -50,3 +50,8 @@
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/6c97604183a226ef813762ef8cc553a69ae74ec2)
 
+### Day 6: June 26, Thursday
+
+**Today's Progress**: Today, I started working on my personal website, I'm just starting but it's going well.
+
+**Thoughts**: Everything is going according to plan, hopefully in a while I will be able to use my website as a portfolio of my projects.
