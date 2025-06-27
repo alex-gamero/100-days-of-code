@@ -21,3 +21,6 @@ I continued with the restoration, I am very close to finishing the product secti
 
 ### R1D6
 I started with a new project, my personal web site!!!
+
+### R1D7
+Back to restoration, Improve the display of images and add functionality to some buttons.
