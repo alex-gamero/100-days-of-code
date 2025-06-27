@@ -55,3 +55,12 @@
 **Today's Progress**: Today, I started working on my personal website, I'm just starting but it's going well.
 
 **Thoughts**: Everything is going according to plan, hopefully in a while I will be able to use my website as a portfolio of my projects.
+
+### Day 7: June 27, Friday
+
+**Today's Progress**: Today I went back to the restoration of the website, added functionality to the buttons and a better display of the images.
+
+**Thoughts**: Everything is going very well, every time the site looks better, it is incredible to be implementing function by function.
+It feels like building a giant house. Brick by brick.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/9316cf3f658cf43a7dd15663453cb0fea04c7eee)
