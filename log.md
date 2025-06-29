@@ -64,3 +64,11 @@
 It feels like building a giant house. Brick by brick.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/9316cf3f658cf43a7dd15663453cb0fea04c7eee)
+
+### Day 8: June 28, Saturday
+
+**Today's Progress**: Today I continued with the restoration of the site, I'm one step away from finishing it, some pictures are missing and the display on the cell phone needs to be fixed.
+
+**Thoughts**: Today I spent quite a few hours modifying some things, I'm exhausted but happy with the progress.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/f1e7880641bc2454e04075cc542cb8ac362dce90)
