@@ -72,3 +72,9 @@ It feels like building a giant house. Brick by brick.
 **Thoughts**: Today I spent quite a few hours modifying some things, I'm exhausted but happy with the progress.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/f1e7880641bc2454e04075cc542cb8ac362dce90)
+
+### Day 9: June 29, Sunday
+
+**Today's Progress**: Today I practiced some html and css coding, especially how to use some css functions to make the display on mobile devices look good.
+
+**Thoughts**: I am very glad to have reviewed this new code and learn it, it will be very useful for sure.

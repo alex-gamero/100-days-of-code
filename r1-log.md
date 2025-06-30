@@ -27,3 +27,6 @@ Back to restoration, Improve the display of images and add functionality to some
 
 ### R1D8
 I continued with the restoration, I improved the page in general and added two new sections.
+
+### R1D9
+I took a break from the website and got to practice some css.
