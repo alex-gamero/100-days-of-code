@@ -78,3 +78,9 @@ It feels like building a giant house. Brick by brick.
 **Today's Progress**: Today I practiced some html and css coding, especially how to use some css functions to make the display on mobile devices look good.
 
 **Thoughts**: I am very glad to have reviewed this new code and learn it, it will be very useful for sure.
+
+### Day 10: June 30, Monday
+
+**Today's Progress**: Today I practiced Java, it's been a while since I've done any java programming so it was quite useful to review it.
+
+**Thoughts**: A little more difficult than I thought, in a few days I forgot a couple of things, but now I have everything fresh in my memory and I'm ready to continue programming.

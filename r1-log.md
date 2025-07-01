@@ -30,3 +30,6 @@ I continued with the restoration, I improved the page in general and added two n
 
 ### R1D9
 I took a break from the website and got to practice some css.
+
+### R1D10
+I took a break from the website and got to practice some Java.
