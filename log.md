@@ -84,3 +84,11 @@ It feels like building a giant house. Brick by brick.
 **Today's Progress**: Today I practiced Java, it's been a while since I've done any java programming so it was quite useful to review it.
 
 **Thoughts**: A little more difficult than I thought, in a few days I forgot a couple of things, but now I have everything fresh in my memory and I'm ready to continue programming.
+
+### Day 11: July 01, Tuesday
+
+**Today's Progress**: Today I decided to finish the website, I improved and finalized the interface for mobile devices, I still have one step to finish everything.
+
+**Thoughts**: It was frustrating at first since I have never had to create a mobile interface before and I am not at all used to using @media. But when I finished it all, it was really rewarding.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/2be69d11ea6718a30b072cd2786605a1d8c2b439)
