@@ -36,3 +36,6 @@ I took a break from the website and got to practice some Java.
 
 ### R1D11
 I am one step away from finishing the restoration of the website, Today I finished the interface for mobile devices.
+
+### R1D12
+Today I learned about MongoDB, its functions and how to start using it, it is really interesting.
