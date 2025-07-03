@@ -92,3 +92,10 @@ It feels like building a giant house. Brick by brick.
 **Thoughts**: It was frustrating at first since I have never had to create a mobile interface before and I am not at all used to using @media. But when I finished it all, it was really rewarding.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/2be69d11ea6718a30b072cd2786605a1d8c2b439)
+
+### Day 12: July 02, Wednesday
+
+**Today's Progress**: Today I completed several MongoDB tasks. I imported JSON files, practiced querying nested fields using find(). Also wrote an aggregate pipeline using $unwind, $match, and $project to isolate a specific nested item from an array.
+
+**Thoughts**: At first, working with nested objects and aggregate queries was a bit difficult. But once I understood the logic behind $unwind and how to filter and project only what I needed, it felt good. It was a great practice day!
+
