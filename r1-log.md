@@ -39,3 +39,6 @@ I am one step away from finishing the restoration of the website, Today I finish
 
 ### R1D12
 Today I learned about MongoDB, its functions and how to start using it, it is really interesting.
+
+### R1D13
+Today I went over a little bit of Linux commands and a lot of JavaScript.
