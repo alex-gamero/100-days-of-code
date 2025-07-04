@@ -99,3 +99,8 @@ It feels like building a giant house. Brick by brick.
 
 **Thoughts**: At first, working with nested objects and aggregate queries was a bit difficult. But once I understood the logic behind $unwind and how to filter and project only what I needed, it felt good. It was a great practice day!
 
+### Day 13: July 03, Thursday
+
+**Today's Progress**: Today I went over some Linux and a lot more JavaScript.
+
+**Thoughts**: It was a good day, I got into some complex issues that I didn't understand, and so far I have some progress, but still have to study more.
