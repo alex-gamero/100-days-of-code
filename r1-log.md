@@ -42,3 +42,10 @@ Today I learned about MongoDB, its functions and how to start using it, it is re
 
 ### R1D13
 Today I went over a little bit of Linux commands and a lot of JavaScript.
+
+### R1D14
+Today I went over Linux commands. More specifically Shell variables.
+
+### R1D15
+Today I went to the AI Tinkerers Hackathon - Ottawa.
+A great opportunity to meet amazing people specialized in AI and in this technology industry.

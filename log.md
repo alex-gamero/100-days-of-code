@@ -104,3 +104,16 @@ It feels like building a giant house. Brick by brick.
 **Today's Progress**: Today I went over some Linux and a lot more JavaScript.
 
 **Thoughts**: It was a good day, I got into some complex issues that I didn't understand, and so far I have some progress, but still have to study more.
+
+### Day 14: July 04, Friday
+
+**Today's Progress**: Today I reviewed Linux, more about the operating system and its commands. More specifically Shell variables.
+
+**Thoughts**: I read about 10 articles of theory and practiced many examples and exercises in the shell, I'm burnt out. But I'm glad I was able to fully understand the topic.
+
+### Day 15: July 05, Saturday
+
+**Today's Progress**: Today is a special day, I'm already in the AI Tinkerers Hackathon - Ottawa.
+A great opportunity to meet amazing people specialized in AI and in this technology industry.
+
+**Thoughts**: I really learned a lot today, from the workshops that were there, to the immense amount of people with years of experience in this field, it was really amazing.
