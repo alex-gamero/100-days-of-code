@@ -55,3 +55,6 @@ I'M ON A ROLL, I CAN'T STOP NOW
 
 ### R1D17
 Website finished, I feel as free as a feather, I can sleep in peace.
+
+### R1D18
+We are bak with Java!!

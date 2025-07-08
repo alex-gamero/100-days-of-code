@@ -133,3 +133,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: It feels good to have finished this project, I learned a lot and I am eager to start new projects. Take a look at the site (It's in Spanish) (I will probably add a section to put the site in English in the future).
 
 **Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
+
+### Day 18: July 08, Tuesday
+
+**Today's Progress**: Today I started practicing Java again, I did so much html, css and JS these weeks. It's time to go back to Java!
+
+**Thoughts**: It was a very relaxed day and really fun, it felt good to seek more knowledge.
