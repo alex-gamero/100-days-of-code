@@ -49,3 +49,9 @@ Today I went over Linux commands. More specifically Shell variables.
 ### R1D15
 Today I went to the AI Tinkerers Hackathon - Ottawa.
 A great opportunity to meet amazing people specialized in AI and in this technology industry.
+
+### R1D16
+I'M ON A ROLL, I CAN'T STOP NOW
+
+### R1D17
+Website finished, I feel as free as a feather, I can sleep in peace.

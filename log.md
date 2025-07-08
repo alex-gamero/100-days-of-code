@@ -117,3 +117,19 @@ It feels like building a giant house. Brick by brick.
 A great opportunity to meet amazing people specialized in AI and in this technology industry.
 
 **Thoughts**: I really learned a lot today, from the workshops that were there, to the immense amount of people with years of experience in this field, it was really amazing.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/K-Ray/commit/1b7b70d3938e6ec44db6ce05e8646d1bbcae67ff)
+
+### Day 16: July 06, Sunday
+
+**Today's Progress**: Today I am determined to polish the last details of the website, I am so close.
+
+**Thoughts**: I NEED TO FINISH IT NOW!!
+-
+### Day 17: July 07, Monday
+
+**Today's Progress**: Finally, I was able to link it with the correct domain and the website is now published.
+
+**Thoughts**: It feels good to have finished this project, I learned a lot and I am eager to start new projects. Take a look at the site (It's in Spanish) (I will probably add a section to put the site in English in the future).
+
+**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
