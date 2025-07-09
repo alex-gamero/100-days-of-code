@@ -58,3 +58,6 @@ Website finished, I feel as free as a feather, I can sleep in peace.
 
 ### R1D18
 We are bak with Java!!
+
+### R1D18
+Today I practiced and learned about Oracle use.
