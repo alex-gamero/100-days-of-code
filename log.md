@@ -139,3 +139,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I started practicing Java again, I did so much html, css and JS these weeks. It's time to go back to Java!
 
 **Thoughts**: It was a very relaxed day and really fun, it felt good to seek more knowledge.
+
+### Day 19: July 09, Wednesday
+
+**Today's Progress**: Today, I practiced Oracle and databases, and also reviewed some Java in the evening.
+
+**Thoughts**: It was interesting to learn about Oracle, today was a quiet day.
