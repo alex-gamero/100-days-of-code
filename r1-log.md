@@ -64,6 +64,3 @@ Today I practiced and learned about Oracle use.
 
 ### R1D20
 Update of the web site !!!!
-
-### R1D20
-Prueba
