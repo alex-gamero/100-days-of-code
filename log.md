@@ -145,3 +145,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, I practiced Oracle and databases, and also reviewed some Java in the evening.
 
 **Thoughts**: It was interesting to learn about Oracle, today was a quiet day.
+
+### Day 20: July 10, Thursday
+
+**Today's Progress**: Today I made some updates to the website, fixed some bugs and added more products.
+
+**Thoughts**: It was a very relaxed day, I learned a few more things about the functioning and performance of web pages, it was interesting.
+
+**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
