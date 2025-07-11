@@ -64,3 +64,6 @@ Today I practiced and learned about Oracle use.
 
 ### R1D20
 Update of the web site !!!!
+
+### R1D21
+Practicing theory on different languages, Java, SQL, html, CSS, JS and Linux Shell.
