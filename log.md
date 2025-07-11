@@ -153,3 +153,10 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: It was a very relaxed day, I learned a few more things about the functioning and performance of web pages, it was interesting.
 
 **Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
+
+### Day 21: July 11, Friday
+
+**Today's Progress**: Today I focused on making notes on some lenjuages that I have been practicing this week, to have clearer concepts and theory.
+
+**Thoughts**: It was a long day and I had to read a lot of theory, even so I know that it helps me to have clear concepts and terms.
+
