@@ -160,3 +160,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a long day and I had to read a lot of theory, even so I know that it helps me to have clear concepts and terms.
 
+### Day 22: July 12, Saturday
+
+**Today's Progress**: Today was very similar to yesterday, practicing many languages and reviewing my notes.
+
+**Thoughts**: Not a bad day.
+
