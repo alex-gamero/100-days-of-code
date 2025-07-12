@@ -67,3 +67,6 @@ Update of the web site !!!!
 
 ### R1D21
 Practicing theory on different languages, Java, SQL, html, CSS, JS and Linux Shell.
+
+### R1D22
+Same as yesterday, practicing theory on different languages, Java, SQL, html, CSS, JS and Linux Shell.
