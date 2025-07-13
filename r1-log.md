@@ -70,3 +70,6 @@ Practicing theory on different languages, Java, SQL, html, CSS, JS and Linux She
 
 ### R1D22
 Same as yesterday, practicing theory on different languages, Java, SQL, html, CSS, JS and Linux Shell.
+
+### R1D23
+Day of review of possible projects, it was a good day.
