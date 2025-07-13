@@ -166,3 +166,8 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: Not a bad day.
 
+### Day 23: July 13, Sunday
+
+**Today's Progress**: Today I reviewed some projects I had in mind and how I could implement them using the lenjugaues I currently know.
+
+**Thoughts**: It was a quiet day, it relaxes me to look for projects calmly and talk with friends about opinions.
