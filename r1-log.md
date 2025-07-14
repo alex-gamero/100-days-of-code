@@ -73,3 +73,6 @@ Same as yesterday, practicing theory on different languages, Java, SQL, html, CS
 
 ### R1D23
 Day of review of possible projects, it was a good day.
+
+### R1D24
+I started a new project, if it looks like it's taken from a nightmare, that's because it is.

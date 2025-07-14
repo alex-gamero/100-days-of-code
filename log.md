@@ -171,3 +171,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed some projects I had in mind and how I could implement them using the lenjugaues I currently know.
 
 **Thoughts**: It was a quiet day, it relaxes me to look for projects calmly and talk with friends about opinions.
+
+### Day 24: July 14, Monday
+
+**Today's Progress**: Today I started a new project, it is a kind of “game” that is played on a web page, it is still in development.
+
+**Thoughts**: I woke up in the middle of the night because of a nightmare, I had the dream so vivid that I had to write it down somewhere, what better idea than to make a “game” about it, right?
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/988925308cca465588b63ddfeae4be05d30007d0)
