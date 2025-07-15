@@ -179,3 +179,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: I woke up in the middle of the night because of a nightmare, I had the dream so vivid that I had to write it down somewhere, what better idea than to make a “game” about it, right?
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/988925308cca465588b63ddfeae4be05d30007d0)
+
+### Day 25: July 15, Tuesday
+
+**Today's Progress**: Today I continued with the project, improving the scroll bar and the UI in general.
+
+**Thoughts**: Today I didn't continue with the story, I just kept improving the website's appearance.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/dfba5a786afd3fec6612df17ff46f2c5869ead2c)

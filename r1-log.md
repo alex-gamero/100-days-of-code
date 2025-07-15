@@ -76,3 +76,6 @@ Day of review of possible projects, it was a good day.
 
 ### R1D24
 I started a new project, if it looks like it's taken from a nightmare, that's because it is.
+
+### R1D25
+Today I continued with the project and made some improvements to the look and feel of the website.
