@@ -79,3 +79,6 @@ I started a new project, if it looks like it's taken from a nightmare, that's be
 
 ### R1D25
 Today I continued with the project and made some improvements to the look and feel of the website.
+
+### R1D26
+Today I practiced Java and SQL.
