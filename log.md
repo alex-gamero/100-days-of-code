@@ -187,3 +187,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: Today I didn't continue with the story, I just kept improving the website's appearance.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/dfba5a786afd3fec6612df17ff46f2c5869ead2c)
+
+### Day 26: July 16, Wednesday
+
+**Today's Progress**: Today, I practiced and reviewed Java and SQL.
+
+**Thoughts**: It was a good day, practicing new concepts and doing some exercises.
