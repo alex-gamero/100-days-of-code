@@ -193,3 +193,13 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, I practiced and reviewed Java and SQL.
 
 **Thoughts**: It was a good day, practicing new concepts and doing some exercises.
+
+### Day 27: July 17, Thursday
+
+**Today's Progress**: Today I started a new mini-game in my "Nullpoint" project and added some products to the "K-Ray Accessories" website.
+
+**Thoughts**: It was a busy day, I had classes and I also had to do the projects in my breaks between classes.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/325af17c2628898450b4ae79f3a97063d8c3f5ed)
+
+**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/) 

@@ -82,3 +82,6 @@ Today I continued with the project and made some improvements to the look and fe
 
 ### R1D26
 Today I practiced Java and SQL.
+
+### R1D27
+Progress on two projects. "Nullpoint" and "K-Ray Accesorios" website.
