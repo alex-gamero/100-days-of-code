@@ -85,3 +85,6 @@ Today I practiced Java and SQL.
 
 ### R1D27
 Progress on two projects. "Nullpoint" and "K-Ray Accesorios" website.
+
+### R1D28
+First final completed in Nullpoint and README upgrade

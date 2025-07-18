@@ -125,14 +125,14 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I am determined to polish the last details of the website, I am so close.
 
 **Thoughts**: I NEED TO FINISH IT NOW!!
--
+
 ### Day 17: July 07, Monday
 
 **Today's Progress**: Finally, I was able to link it with the correct domain and the website is now published.
 
 **Thoughts**: It feels good to have finished this project, I learned a lot and I am eager to start new projects. Take a look at the site (It's in Spanish) (I will probably add a section to put the site in English in the future).
 
-**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
+**Take a look at the website!**: [Take a look at the website!](https://k-ray.shop/)
 
 ### Day 18: July 08, Tuesday
 
@@ -152,7 +152,7 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a very relaxed day, I learned a few more things about the functioning and performance of web pages, it was interesting.
 
-**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/)
+**Take a look at the website!**: [Take a look at the website!](https://k-ray.shop/)
 
 ### Day 21: July 11, Friday
 
@@ -202,4 +202,12 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/325af17c2628898450b4ae79f3a97063d8c3f5ed)
 
-**Link(s) to work**: [Take a look at the website!](https://k-ray.shop/) 
+**Take a look at the website!**: [Take a look at the website!](https://k-ray.shop/) 
+
+### Day 28: July 18, Friday 
+
+**Today's Progress**: Today I added an end to Nullpoint and improved the Readme of my projects.
+
+**Thoughts**: I really spent a lot of time on the first ending in Nullpoint, who knew it was so difficult to use ASCII characters?
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/6e94d1b10333dd820686759012f81000fa2b4226)
