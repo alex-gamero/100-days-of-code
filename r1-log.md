@@ -88,3 +88,6 @@ Progress on two projects. "Nullpoint" and "K-Ray Accesorios" website.
 
 ### R1D28
 First final completed in Nullpoint and README upgrade
+
+### R1D29
+Progress in the history of Nullpoint.
