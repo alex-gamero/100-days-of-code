@@ -211,3 +211,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: I really spent a lot of time on the first ending in Nullpoint, who knew it was so difficult to use ASCII characters?
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/6e94d1b10333dd820686759012f81000fa2b4226)
+
+### Day 29: July 19, Saturday 
+
+**Today's Progress**: Today, I made some progress in the history of Nullpoint.
+
+**Thoughts**: The truth is that I'm a bit stuck with the story, it's hard for me to remember the nightmare, sometimes I read the story and it doesn't convince me, other times it does. I don't know.
