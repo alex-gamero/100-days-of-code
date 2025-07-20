@@ -91,3 +91,6 @@ First final completed in Nullpoint and README upgrade
 
 ### R1D29
 Progress in the history of Nullpoint.
+
+### R1D30
+Testing a new IDE, Kiro

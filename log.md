@@ -222,4 +222,4 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Today's Progress**: Today I started to test a new IDE, Kiro
 
-**Thoughts**: I saw a video on yotube showing how it works and how it could be better than Cursor or VS code, so I got curious, I'm going to try it for a while and see how it goes.
+**Thoughts**: I saw a video on yotube showing how it works and how it could be better than Cursor or VS code, so I got curious, so i'm going to try it for a while and see how it goes.
