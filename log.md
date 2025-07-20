@@ -217,3 +217,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, I made some progress in the history of Nullpoint.
 
 **Thoughts**: The truth is that I'm a bit stuck with the story, it's hard for me to remember the nightmare, sometimes I read the story and it doesn't convince me, other times it does. I don't know.
+
+### Day 30: July 20, Sunday 
+
+**Today's Progress**: Today I started to test a new IDE, Kiro
+
+**Thoughts**: I saw a video on yotube showing how it works and how it could be better than Cursor or VS code, so I got curious, I'm going to try it for a while and see how it goes.
