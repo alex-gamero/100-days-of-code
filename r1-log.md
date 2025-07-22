@@ -94,3 +94,6 @@ Progress in the history of Nullpoint.
 
 ### R1D30
 Testing a new IDE, Kiro
+
+### R1D31
+Creating Scripts in Linux !!!
