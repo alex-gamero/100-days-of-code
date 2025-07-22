@@ -223,3 +223,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I started to test a new IDE, Kiro
 
 **Thoughts**: I saw a video on yotube showing how it works and how it could be better than Cursor or VS code, so I got curious, so i'm going to try it for a while and see how it goes.
+
+### Day 31: July 21, Monday 
+
+**Today's Progress**: Today I practiced Linux and scipts that can be created to run as your own commands.
+
+**Thoughts**: I thought it was great the fact of being able to create scrpits in Linux and that inside them you can create variables or use commands to make these sciprits have a good functionality. I'm really excited to try them.
