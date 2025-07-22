@@ -97,3 +97,6 @@ Testing a new IDE, Kiro
 
 ### R1D31
 Creating Scripts in Linux !!!
+
+### R1D32
+Java and Linux practice day.
