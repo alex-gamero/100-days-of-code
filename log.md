@@ -229,3 +229,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I practiced Linux and scipts that can be created to run as your own commands.
 
 **Thoughts**: I thought it was great the fact of being able to create scrpits in Linux and that inside them you can create variables or use commands to make these sciprits have a good functionality. I'm really excited to try them.
+
+### Day 32: July 22, Tuesday 
+
+**Today's Progress**: Today, I practiced Java and Linux as well.
+
+**Thoughts**: It was a quiet day, practicing new concepts and theory, as well as some uses.
