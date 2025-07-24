@@ -241,3 +241,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I had classes, I learned about Exceptions in Java and Data Warehousing in Databases.
 
 **Thoughts**: It was a good day. I liked the topics we covered today. I went home and reviewed the class material.
+
+### Day 34: July 24, Thursday 
+
+**Today's Progress**: Today I had classes on Linux and web programming. It was interesting.
+
+**Thoughts**: Review the code at home and practice things that I found interesting.
