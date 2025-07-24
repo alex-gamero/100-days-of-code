@@ -235,3 +235,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, I practiced Java and Linux as well.
 
 **Thoughts**: It was a quiet day, practicing new concepts and theory, as well as some uses.
+
+### Day 33: July 23, Wednesday 
+
+**Today's Progress**: Today I had classes, I learned about Exceptions in Java and Data Warehousing in Databases.
+
+**Thoughts**: It was a good day. I liked the topics we covered today. I went home and reviewed the class material.
