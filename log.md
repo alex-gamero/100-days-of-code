@@ -247,3 +247,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I had classes on Linux and web programming. It was interesting.
 
 **Thoughts**: Review the code at home and practice things that I found interesting.
+
+### Day 35: July 25, Friday 
+
+**Today's Progress**: Today I worked very hard to improve in all languages in general, practicing each one.
+
+**Thoughts**: It was a busy day, I did a lot of research and learned a lot too. It feels good to work hard.
