@@ -253,3 +253,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I worked very hard to improve in all languages in general, practicing each one.
 
 **Thoughts**: It was a busy day, I did a lot of research and learned a lot too. It feels good to work hard.
+
+### Day 36: July 26, Saturday 
+
+**Today's Progress**: Today I continue with Nullpoint. I finished some improvements so that it can be viewed properly on different devices, and I am improving the UI in general.
+
+**Thoughts**: It felt good to get back to my projects after a while. With so many classes and now the work, it's hard to find time, but we're doing everything well.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/9881e466ec573e4bd5179d3277d5c71ccfaf653e)

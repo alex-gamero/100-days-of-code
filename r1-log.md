@@ -109,3 +109,6 @@ Linux and Web programming practice day.
 
 ### R1D35
 There's nothing better than a good day of hard work. Today I practiced ALL languages.
+
+### R1D36
+We're back with the Nullpoint project!!!
