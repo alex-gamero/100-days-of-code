@@ -267,3 +267,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I continue with Nullpoint. I developed more the history.
 
 **Thoughts**: I think it's time to finish the project, so I'm trying to wrap up the story and the other two endings.
+
+### Day 38: July 28, Monday 
+
+**Today's Progress**: Today I continue with Nullpoint. I am improving the UI in general.
+
+**Thoughts**: I realized that there are many things that don't feel so good as a user, so I tried to improve the experience as much as possible.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/d3c06bfb2c6c351d73031c2c18fe5e5d1c9847ea)

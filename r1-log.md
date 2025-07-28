@@ -115,3 +115,6 @@ We're back with the Nullpoint project!!!
 
 ### R1D37
 We're back with the Nullpoint project, I continued with the history.
+
+### R1D38
+Continuing with the Nullpoint project, I made some improvements to the website in general, and improvements to the texts and visualization.
