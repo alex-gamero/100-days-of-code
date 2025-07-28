@@ -112,3 +112,6 @@ There's nothing better than a good day of hard work. Today I practiced ALL langu
 
 ### R1D36
 We're back with the Nullpoint project!!!
+
+### R1D37
+We're back with the Nullpoint project, I continued with the history.
