@@ -261,3 +261,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: It felt good to get back to my projects after a while. With so many classes and now the work, it's hard to find time, but we're doing everything well.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/9881e466ec573e4bd5179d3277d5c71ccfaf653e)
+
+### Day 37: July 27, Sunday 
+
+**Today's Progress**: Today I continue with Nullpoint. I developed more the history.
+
+**Thoughts**: I think it's time to finish the project, so I'm trying to wrap up the story and the other two endings.
