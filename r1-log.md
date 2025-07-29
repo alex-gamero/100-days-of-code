@@ -118,3 +118,6 @@ We're back with the Nullpoint project, I continued with the history.
 
 ### R1D38
 Continuing with the Nullpoint project, I made some improvements to the website in general, and improvements to the texts and visualization.
+
+### R1D39
+I went back to class after the weekend, and today we're practicing Java.
