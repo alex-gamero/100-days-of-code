@@ -275,3 +275,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: I realized that there are many things that don't feel so good as a user, so I tried to improve the experience as much as possible.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Nullpoint/commit/d3c06bfb2c6c351d73031c2c18fe5e5d1c9847ea)
+
+### Day 39: July 29, Tuesday 
+
+**Today's Progress**: Today we're back in class and practicing Java.
+
+**Thoughts**: It was a quiet day, classes went well, and it was a nice break from a long weekend.
