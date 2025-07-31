@@ -124,3 +124,6 @@ I went back to class after the weekend, and today we're practicing Java.
 
 ### R1D40
 Today, I study and make good progress with databases, but specifically Oracle.
+
+### R1D41
+Today I made progress with Linux and saw PHP in web programming.
