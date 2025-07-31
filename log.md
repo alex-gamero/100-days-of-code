@@ -287,3 +287,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, we are working full steam ahead on the database, making significant progress on an interesting task, connecting Oracle SQL Developer with Access.
 
 **Thoughts**: The truth was somewhat complex, because at one point I started getting a lot of errors that I didn't know why they were happening, but after a while of investigating, I was able to fix them.
+
+### Day 41: July 31, Thursday
+
+**Today's Progress**: Today I practiced some Linux and got more into PHP in web programming.
+
+**Thoughts**: To be honest, PHP still confuses me a little, but it seems like a useful tool in a real-world environment.
