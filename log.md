@@ -281,3 +281,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today we're back in class and practicing Java.
 
 **Thoughts**: It was a quiet day, classes went well, and it was a nice break from a long weekend.
+
+### Day 40: July 30, Wednesday 
+
+**Today's Progress**: Today, we are working full steam ahead on the database, making significant progress on an interesting task, connecting Oracle SQL Developer with Access.
+
+**Thoughts**: The truth was somewhat complex, because at one point I started getting a lot of errors that I didn't know why they were happening, but after a while of investigating, I was able to fix them.
