@@ -121,3 +121,6 @@ Continuing with the Nullpoint project, I made some improvements to the website i
 
 ### R1D39
 I went back to class after the weekend, and today we're practicing Java.
+
+### R1D40
+Today, I study and make good progress with databases, but specifically Oracle.
