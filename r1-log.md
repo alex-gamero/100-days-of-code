@@ -127,3 +127,6 @@ Today, I study and make good progress with databases, but specifically Oracle.
 
 ### R1D41
 Today I made progress with Linux and saw PHP in web programming.
+
+### R1D42
+Today I did a general review of Linux, reviewed new topics in Java and PHP in web programming.
