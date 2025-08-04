@@ -300,8 +300,14 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: My final exams are coming up, so I have to study and practice as much as possible.
 
-### Day 42: August 01, Friday
+### Day 43: August 02, Saturday
 
 **Today's Progress**: Today I made progress on some pending issues in web programming and databases.
 
 **Thoughts**: I am trying to get a database to connect correctly with PHP, and everything is going well.
+
+### Day 44: August 03, Sunday
+
+**Today's Progress**: Today I practiced databases, Oracle, and views in a database.
+
+**Thoughts**: Today has been a bit of a tough day, with lots of college assignments and work, plus there were some problems uploading an assignment, but luckily I managed to get everything done that I had planned for today.
