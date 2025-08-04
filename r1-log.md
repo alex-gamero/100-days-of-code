@@ -133,3 +133,6 @@ Today I did a general review of Linux, reviewed new topics in Java and PHP in we
 
 ### R1D43
 Today I made progress on some pending issues in web programming and databases.
+
+### R1D44
+Today I practiced databases, Oracle, and views in a database.
