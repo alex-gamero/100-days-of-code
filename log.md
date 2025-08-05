@@ -311,3 +311,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I practiced databases, Oracle, and views in a database.
 
 **Thoughts**: Today has been a bit of a tough day, with lots of college assignments and work, plus there were some problems uploading an assignment, but luckily I managed to get everything done that I had planned for today.
+
+### Day 45: August 04, Monday
+
+**Today's Progress**: Today I improved a lot.
+
+**Thoughts**: Sometimes I understand that improvements or goals have to be classified statistically, but today, I really felt different, I improved a lot, that's all I know.
