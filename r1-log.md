@@ -139,3 +139,6 @@ Today I practiced databases, Oracle, and views in a database.
 
 ### R1D45
 Today I improved a lot.
+
+### R1D46
+Today I gave a presentation on my code in class. It went very well, and I also made progress with databases.
