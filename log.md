@@ -323,3 +323,11 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I gave a presentation on my code in class. It went very well, and I also made progress with databases.
 
 **Thoughts**: Tomorrow I have a database demo, so today I practiced on it and made some progress with the code.
+
+### Day 47: August 06, Wednesday
+
+**Today's Progress**: Today I started a new project, something simple but I hope it looks good. Memora, a simple web page to study languages with Flashcards.
+
+**Thoughts**: It was a good afternoon. I enjoyed working on something new and simple.
+
+**Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Memora/commit/c2b81eee7f8a5ac018af32c37c2d743b19087585)
