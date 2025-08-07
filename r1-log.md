@@ -142,3 +142,6 @@ Today I improved a lot.
 
 ### R1D46
 Today I gave a presentation on my code in class. It went very well, and I also made progress with databases.
+
+### R1D47
+Today I started a new project, something simple but I hope it looks good. Memora, a simple web page to study languages with Flashcards.
