@@ -145,3 +145,6 @@ Today I gave a presentation on my code in class. It went very well, and I also m
 
 ### R1D47
 Today I started a new project, something simple but I hope it looks good. Memora, a simple web page to study languages with Flashcards.
+
+### R1D48
+Some improvements were made to the Memora code by adding database functionalities, and it is now truly incredible.
