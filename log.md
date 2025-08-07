@@ -331,3 +331,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Thoughts**: It was a good afternoon. I enjoyed working on something new and simple.
 
 **Link(s) to work**: [Commit of today](https://github.com/alex-gamero/Memora/commit/c2b81eee7f8a5ac018af32c37c2d743b19087585)
+
+### Day 48: August 07, Thursday
+
+**Today's Progress**: Today, I had to present the Memora project in class, with some classmates.
+
+**Thoughts**: My colleagues also helped me make some improvements to the code by adding database functionality. It's incredible now.
