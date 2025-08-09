@@ -148,3 +148,6 @@ Today I started a new project, something simple but I hope it looks good. Memora
 
 ### R1D48
 Some improvements were made to the Memora code by adding database functionalities, and it is now truly incredible.
+
+### R1D49
+Today I practiced Linux. Everything I've learned so far is good to review.
