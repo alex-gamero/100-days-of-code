@@ -337,3 +337,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today, I had to present the Memora project in class, with some classmates.
 
 **Thoughts**: My colleagues also helped me make some improvements to the code by adding database functionality. It's incredible now.
+
+### Day 49: August 08, Friday
+
+**Today's Progress**: Today I practiced Linux. Everything I've learned so far is good to review.
+
+**Thoughts**: I have an exam tomorrow, so I studied a lot about Linux today.
