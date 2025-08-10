@@ -154,3 +154,6 @@ Today I practiced Linux. Everything I've learned so far is good to review.
 
 ### R1D50
 I finished my Linux exam, and now I have another exam, so I have to study databases.
+
+### R1D51
+I'm still studying databases, tomorrow is the exam.
