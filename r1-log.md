@@ -151,3 +151,6 @@ Some improvements were made to the Memora code by adding database functionalitie
 
 ### R1D49
 Today I practiced Linux. Everything I've learned so far is good to review.
+
+### R1D50
+I finished my Linux exam, and now I have another exam, so I have to study databases.
