@@ -343,3 +343,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I practiced Linux. Everything I've learned so far is good to review.
 
 **Thoughts**: I have an exam tomorrow, so I studied a lot about Linux today.
+
+### Day 50: August 09, Saturday
+
+**Today's Progress**: I finished my Linux exam, and now I have another exam, so I have to study databases.
+
+**Thoughts**: I did really well in Linux; it's the course I'm most proficient in. Now I'm going to study databases.
