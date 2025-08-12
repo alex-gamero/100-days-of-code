@@ -157,3 +157,6 @@ I finished my Linux exam, and now I have another exam, so I have to study databa
 
 ### R1D51
 I'm still studying databases, tomorrow is the exam.
+
+### R1D52
+Today was the database exam. Now, let's prepare for the next exam.
