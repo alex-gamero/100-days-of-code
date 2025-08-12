@@ -355,3 +355,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: I'm still studying databases, tomorrow is the exam.
 
 **Thoughts**: I had a really good day today. It was a good day. I was able to do activities that I like and play sports, as well as study.
+
+### Day 52: August 11, Monday
+
+**Today's Progress**: Today was the database exam. Now, let's prepare for the next exam.
+
+**Thoughts**: Today's exam ... It wasn't that bad, I think it's going to be good. Later today, I studied Web Programming, it's my next exam.
