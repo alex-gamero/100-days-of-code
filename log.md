@@ -367,3 +367,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: I am still preparing for the next exam, Web Programming.
 
 **Thoughts**: I also had work today, it was a busy day. But with tomorrow's study sesion, I know I'm going to be ready for the exam.
+
+### Day 54: August 13, Wednesday
+
+**Today's Progress**: I finished the Web Programming exam, now, let's focus on the next one, Java.
+
+**Thoughts**: The exam of today feelt super good, Also I had work after that, it was a busy day hahaha.
