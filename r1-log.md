@@ -163,3 +163,6 @@ Today was the database exam. Now, let's prepare for the next exam.
 
 ### R1D53
 I am still preparing for the next exam, Web Programming.
+
+### R1D54
+I finished the Web Programming exam, now, let's focus on the next one, Java.
