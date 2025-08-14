@@ -373,3 +373,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: I finished the Web Programming exam, now, let's focus on the next one, Java.
 
 **Thoughts**: The exam of today feelt super good, Also I had work after that, it was a busy day hahaha.
+
+### Day 55: August 14, Thursday
+
+**Today's Progress**: Today I kept studying Java, I think I'm ready for tomorrow.
+
+**Thoughts**: There's a lot to learn in Java, but I think I managed my time well.
