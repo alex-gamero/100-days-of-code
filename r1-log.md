@@ -169,3 +169,6 @@ I finished the Web Programming exam, now, let's focus on the next one, Java.
 
 ### R1D55
 Today I kept studying Java, I think I'm ready for tomorrow.
+
+### R1D56
+Today was the exam - everything went perfect.
