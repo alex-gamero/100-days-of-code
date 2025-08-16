@@ -385,3 +385,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today was the exam - everything went perfect. I also received some of my final grades, everything is good.
 
 **Thoughts**: Today's exam feelt super good, and now I have a two week break. Time to look for a job.
+
+### Day 56: August 15, Friday
+
+**Today's Progress**: Today I looked for and applied to some jobs.
+
+**Thoughts**: The second semester just ended, so it's time to look for jobs for the Co-op term.
