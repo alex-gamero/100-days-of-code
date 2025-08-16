@@ -172,3 +172,6 @@ Today I kept studying Java, I think I'm ready for tomorrow.
 
 ### R1D56
 Today was the exam - everything went perfect.
+
+### R1D57
+Today I looked for and applied to some jobs.
