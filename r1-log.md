@@ -175,3 +175,6 @@ Today was the exam - everything went perfect.
 
 ### R1D57
 Today I looked for and applied to some jobs.
+
+### R1D58
+Today I reviewed an important topic - PHP. It's always good to revisit some concepts.
