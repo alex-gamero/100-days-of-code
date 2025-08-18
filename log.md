@@ -391,3 +391,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I looked for and applied to some jobs.
 
 **Thoughts**: The second semester just ended, so it's time to look for jobs for the Co-op term.
+
+### Day 58: August 17, Sunday
+
+**Today's Progress**: Today I reviewed an important topic - PHP. It's always good to revisit some concepts.
+
+**Thoughts**: The last topic in Web Programming was PHP, and I had some doubts. That's why I review some related topics today.
