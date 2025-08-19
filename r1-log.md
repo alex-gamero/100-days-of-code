@@ -181,3 +181,6 @@ Today I reviewed an important topic - PHP. It's always good to revisit some conc
 
 ### R1D59
 Today I reviewed some Java concepts.  
+
+### R1D60
+Today I reviewed some Linux concepts and applied to some Jobs.  
