@@ -403,3 +403,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed some Java concepts.  
 
 **Thoughts**: After receiving some of my finals grades, I wanted to verify everything was correct, so I revisited key Java topics. 
+
+### Day 60: August 19, Tuesday
+
+**Today's Progress**: Today I reviewed some Linux concepts and applied to some Jobs.  
+
+**Thoughts**: I kept receiving my finals grades, they are really good. 
