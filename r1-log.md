@@ -178,3 +178,6 @@ Today I looked for and applied to some jobs.
 
 ### R1D58
 Today I reviewed an important topic - PHP. It's always good to revisit some concepts.
+
+### R1D59
+Today I reviewed some Java concepts.  
