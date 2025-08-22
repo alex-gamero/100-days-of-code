@@ -184,3 +184,6 @@ Today I reviewed some Java concepts.
 
 ### R1D60
 Today I reviewed some Linux concepts and applied to some Jobs.  
+
+### R1D61
+Today I reviewed some Database concepts and applied to some Jobs.  
