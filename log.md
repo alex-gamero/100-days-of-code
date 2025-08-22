@@ -409,3 +409,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed some Linux concepts and applied to some Jobs.  
 
 **Thoughts**: I kept receiving my finals grades, they are really good. 
+
+### Day 61: August 21, Thursday
+
+**Today's Progress**: Today I reviewed some Database concepts and applied to some Jobs.  
+
+**Thoughts**: I kept receiving my finals grades, they are really good. 
