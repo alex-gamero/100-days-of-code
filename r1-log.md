@@ -190,3 +190,6 @@ Today I reviewed some Database concepts and applied to some Jobs.
 
 ### R1D62
 Today I reviewed some Web Programming concepts.  
+
+### R1D63
+Today I reviewed some Technical Communications concepts.  
