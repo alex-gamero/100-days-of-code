@@ -421,3 +421,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed some Web Programming concepts.  
 
 **Thoughts**: I finally received all my finals grades, they are really good. 
+
+### Day 63: August 23, Saturday
+
+**Today's Progress**: Today I reviewed Technical Communications concepts.  
+
+**Thoughts**: I finally received all my finals grades, they are really good. 
