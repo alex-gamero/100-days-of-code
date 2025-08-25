@@ -195,4 +195,7 @@ Today I reviewed some Web Programming concepts.
 Today I reviewed some Technical Communications concepts.  
 
 ### R1D64
-Today I reviewed some concepts I didn't quite understand to reinforce my knowledge.  
+Today I reviewed some concepts I didn't quite understand to reinforce my knowledge. 
+
+### R1D65
+Today I updated the Nullpoint project after a while.  
