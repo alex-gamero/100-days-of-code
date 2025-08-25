@@ -433,3 +433,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed some concepts I didn't quite understand to reinforce my knowledge.  
 
 **Thoughts**: It was a good day, I also had work today, so I don't have the entire day to focus on programming anymore. 
+
+### Day 65: August 25, Monday
+
+**Today's Progress**: Today I updated the Nullpoint project after a while.  
+
+**Thoughts**: I finally added the true ending and continued working on the dialogues. It's relatively short in terms of text, but it's really difficult to create a videogame with branching options, maybe in a future I will add more dialogues. 
