@@ -427,3 +427,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I reviewed Technical Communications concepts.  
 
 **Thoughts**: I finally received all my finals grades, they are really good. 
+
+### Day 64: August 24, Sunday
+
+**Today's Progress**: Today I reviewed some concepts I didn't quite understand to reinforce my knowledge.  
+
+**Thoughts**: It was a good day, I also had work today, so I don't have the entire day to focus on programming anymore. 
