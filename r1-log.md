@@ -202,3 +202,6 @@ Today I updated the Nullpoint project after a while.
 
 ### R1D66
 Today I keep working with the updates for the Nullpoint project. 
+
+### R1D67
+Today I kept working with the endings and updates for the Nullpoint project.  
