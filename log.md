@@ -440,8 +440,14 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: I finally added the true ending and continued working on the dialogues. It's relatively short in terms of text, but it's really difficult to create a videogame with branching options, maybe in a future I will add more dialogues. 
 
-### Day 65: August 25, Monday
+### Day 66: August 26, Tuesday
 
-**Today's Progress**: Today I keep working with the updates for the Nullpoint project.  
+**Today's Progress**: Today I kept working with the updates for the Nullpoint project.  
 
 **Thoughts**: I finally added some extra "endings" but it's still needs to be polished.
+
+### Day 67: August 27, Wednesday
+
+**Today's Progress**: Today I kept working with the endings and updates for the Nullpoint project.  
+
+**Thoughts**: I finally added the "knight" ending and included a song in the ending scenes.
