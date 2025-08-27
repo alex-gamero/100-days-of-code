@@ -199,3 +199,6 @@ Today I reviewed some concepts I didn't quite understand to reinforce my knowled
 
 ### R1D65
 Today I updated the Nullpoint project after a while.  
+
+### R1D66
+Today I keep working with the updates for the Nullpoint project. 
