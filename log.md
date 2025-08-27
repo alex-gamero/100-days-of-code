@@ -439,3 +439,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I updated the Nullpoint project after a while.  
 
 **Thoughts**: I finally added the true ending and continued working on the dialogues. It's relatively short in terms of text, but it's really difficult to create a videogame with branching options, maybe in a future I will add more dialogues. 
+
+### Day 65: August 25, Monday
+
+**Today's Progress**: Today I keep working with the updates for the Nullpoint project.  
+
+**Thoughts**: I finally added some extra "endings" but it's still needs to be polished.
