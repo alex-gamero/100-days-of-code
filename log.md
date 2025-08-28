@@ -451,3 +451,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I kept working with the endings and updates for the Nullpoint project.  
 
 **Thoughts**: I finally added the "knight" ending and included a song in the ending scenes.
+
+### Day 68: August 28, Thursday
+
+**Today's Progress**: Today I kept working with the endings and branches for the Nullpoint project.  
+
+**Thoughts**: I added the "scary cat" ending and kept including songs in the ending scenes.
