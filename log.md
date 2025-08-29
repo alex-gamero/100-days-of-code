@@ -457,3 +457,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I kept working with the endings and branches for the Nullpoint project.  
 
 **Thoughts**: I added the "scary cat" ending and kept including songs in the ending scenes.
+
+### Day 69: August 29, Friday
+
+**Today's Progress**: Today I started a new project. It's really simple, but it will be usefull for me.
+
+**Thoughts**: I created a website called React8. I had the idea yesterday because I needed something like that for my training, and I just thought, "Why don't I just code that myself?"
