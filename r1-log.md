@@ -211,3 +211,6 @@ Today I kept working with the endings and branches for the Nullpoint project.
 
 ### R1D69
 Today I started a new project. It's really simple, but it will be usefull for me.
+
+### R1D70
+Today I continued with the Nullpoint proyect and the branching endings. 
