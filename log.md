@@ -463,3 +463,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I started a new project. It's really simple, but it will be usefull for me.
 
 **Thoughts**: I created a website called React8. I had the idea yesterday because I needed something like that for my training, and I just thought, "Why don't I just code that myself?"
+
+### Day 69: August 29, Friday
+
+**Today's Progress**: Today I continued with the Nullpoint proyect and the branching endings. 
+
+**Thoughts**: It's harder that I tought it would be, it's really a lot of diferent endings with all the combination of options.
