@@ -469,3 +469,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I continued with the Nullpoint proyect and the branching endings. 
 
 **Thoughts**: It's harder that I tought it would be, it's really a lot of diferent endings with all the combination of options.
+
+### Day 70: August 30, Saturday
+
+**Today's Progress**: Today I continued with the React8 proyect and strat adding some new features. 
+
+**Thoughts**: It's going pretty well, I just discover a new way to make it easier to use, add audio instruccions!
