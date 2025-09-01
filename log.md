@@ -464,14 +464,20 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: I created a website called React8. I had the idea yesterday because I needed something like that for my training, and I just thought, "Why don't I just code that myself?"
 
-### Day 69: August 29, Friday
+### Day 70: August 30, Saturday
 
-**Today's Progress**: Today I continued with the Nullpoint proyect and the branching endings. 
+**Today's Progress**: Today I continued with the Nullpoint project and the branching endings. 
 
 **Thoughts**: It's harder that I tought it would be, it's really a lot of diferent endings with all the combination of options.
 
-### Day 70: August 30, Saturday
+### Day 71: August 31, Sunday
 
-**Today's Progress**: Today I continued with the React8 proyect and start adding some new features. 
+**Today's Progress**: Today I continued with the React8 project and start adding some new features. 
 
-**Thoughts**: It's going pretty well, I just discover a new way to make it easier to use, add audio instruccions!
+**Thoughts**: It's going pretty well, I just discover a new way to make it easier to use, add audio instructions!
+
+### Day 72: September 01, Monday
+
+**Today's Progress**: Today I finished the new feature for the React8 project. 
+
+**Thoughts**: It's going pretty well. I just added audio instructions, and it's even adaptable to the chosen time.
