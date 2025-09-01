@@ -214,3 +214,6 @@ Today I started a new project. It's really simple, but it will be usefull for me
 
 ### R1D70
 Today I continued with the Nullpoint proyect and the branching endings. 
+
+### R1D71
+Today I continued with the React8 proyect and start adding some new features. 

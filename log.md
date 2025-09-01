@@ -472,6 +472,6 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 ### Day 70: August 30, Saturday
 
-**Today's Progress**: Today I continued with the React8 proyect and strat adding some new features. 
+**Today's Progress**: Today I continued with the React8 proyect and start adding some new features. 
 
 **Thoughts**: It's going pretty well, I just discover a new way to make it easier to use, add audio instruccions!
