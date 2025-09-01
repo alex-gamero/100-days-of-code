@@ -217,3 +217,6 @@ Today I continued with the Nullpoint proyect and the branching endings.
 
 ### R1D71
 Today I continued with the React8 proyect and start adding some new features. 
+
+### R1D72
+Today I finished the new feature for the React8 project. 
