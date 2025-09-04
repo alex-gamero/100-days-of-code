@@ -490,6 +490,6 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 ### Day 74: September 03, Wednesday
 
-**Today's Progress**: Today I started classes again. 
+**Today's Progress**: Today I started class again. 
 
 **Thoughts**: It felt very good to be back.
