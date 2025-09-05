@@ -493,3 +493,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I started class again. 
 
 **Thoughts**: It felt very good to be back.
+
+### Day 75: September 04, Thursday
+
+**Today's Progress**: Today I started class again, new curses and more theorie.
+
+**Thoughts**: It was a relaxed day.
