@@ -500,7 +500,7 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a relaxed day.
 
-### Day 75: September 04, Thursday
+### Day 76: September 05, Friday
 
 **Today's Progress**: Today I had my first class about Mobile Graphical Interface, it was really interesting.
 
