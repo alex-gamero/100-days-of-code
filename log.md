@@ -499,3 +499,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I started class again, new curses and more theorie.
 
 **Thoughts**: It was a relaxed day.
+
+### Day 75: September 04, Thursday
+
+**Today's Progress**: Today I had my first class about Mobile Graphical Interface, it was really interesting.
+
+**Thoughts**: I never touch Android to programm with, so today was very fun, also thrilling.
