@@ -229,3 +229,6 @@ Today I started class again.
 
 ### R1D75
 It was a relaxed day.
+
+### R1D76
+Today I had my first class about Mobile Graphical Interface, it was really interesting.
