@@ -505,3 +505,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I had my first class about Mobile Graphical Interface, it was really interesting.
 
 **Thoughts**: I never touch Android to programm with, so today was very fun, also thrilling.
+
+### Day 77: September 07, Sunday
+
+**Today's Progress**: Today I finished some assignments for this weekend.
+
+**Thoughts**: The things I had to do today were easy, but tomorrow I will have to study hard what was done during the week.
