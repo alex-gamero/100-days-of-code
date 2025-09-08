@@ -232,3 +232,6 @@ It was a relaxed day.
 
 ### R1D76
 Today I had my first class about Mobile Graphical Interface, it was really interesting.
+
+### R1D77
+Today I finished some assignments for this weekend.
