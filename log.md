@@ -511,3 +511,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I finished some assignments for this weekend.
 
 **Thoughts**: The things I had to do today were easy, but tomorrow I will have to study hard what was done during the week.
+
+### Day 78: September 08, Monday
+
+**Today's Progress**: Today I finished some notes for my classes and applied to some jobs for the co-op term.
+
+**Thoughts**: This was a good day, productive and chill.
