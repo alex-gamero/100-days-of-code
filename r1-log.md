@@ -238,3 +238,6 @@ Today I finished some assignments for this weekend.
 
 ### R1D78
 Today I finished some notes for my classes and applied to some jobs for the co-op term.
+
+### R1D79
+Today I finished some classes and did some labs.
