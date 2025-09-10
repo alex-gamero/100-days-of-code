@@ -517,3 +517,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I finished some notes for my classes and applied to some jobs for the co-op term.
 
 **Thoughts**: This was a good day, productive and chill.
+
+### Day 79: September 09, Tuesday
+
+**Today's Progress**: Today I finished some classes and did some labs.
+
+**Thoughts**: Today was a good day, productive and chill.
