@@ -523,3 +523,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I finished some classes and did some labs.
 
 **Thoughts**: Today was a good day, productive and chill.
+
+### Day 80: September 10, Wednesday
+
+**Today's Progress**: Today I had BI and Data Analytics class and did some labs too.
+
+**Thoughts**: It was a busy day, but I enjoy it.
