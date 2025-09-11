@@ -241,3 +241,6 @@ Today I finished some notes for my classes and applied to some jobs for the co-o
 
 ### R1D79
 Today I finished some classes and did some labs.
+
+### R1D80
+Today I had BI and Data Analytics class and did some labs too.
