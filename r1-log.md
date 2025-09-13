@@ -244,3 +244,9 @@ Today I finished some classes and did some labs.
 
 ### R1D80
 Today I had BI and Data Analytics class and did some labs too.
+
+### R1D81
+Today I had Mobile Graphical Interface Programming class, it was intense, we even used GitHub to get the code from the professor's repository.
+
+### R1D82
+Today I finished my notes for the classes I had this week. 
