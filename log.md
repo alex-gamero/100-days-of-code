@@ -529,3 +529,15 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 **Today's Progress**: Today I had BI and Data Analytics class and did some labs too.
 
 **Thoughts**: It was a busy day, but I enjoy it.
+
+### Day 81: September 12, Friday
+
+**Today's Progress**: Today I had Mobile Graphical Interface Programming class, it was intense, we even used GitHub to get the code from the professor's repository.
+
+**Thoughts**: Today was a really good day. It was the first time we used GitHub in one of our classes, which made the proccess of accessing the professor's example code much easier.
+
+### Day 82: September 13, Saturday
+
+**Today's Progress**: Today I finished my notes for the classes I had this week. 
+
+**Thoughts**: It was a busy day. There was a lot of material from the different classes, but it's finally finished.
