@@ -536,8 +536,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: Today was a really good day. It was the first time we used GitHub in one of our classes, which made the proccess of accessing the professor's example code much easier.
 
-### Day 82: September 13, Saturday
+### Day 83: September 14, Sunday
 
-**Today's Progress**: Today I finished my notes for the classes I had this week. 
+**Today's Progress**: Today I finished some assignments for my classes and aplied to some jobs. 
 
-**Thoughts**: It was a busy day. There was a lot of material from the different classes, but it's finally finished.
+**Thoughts**: It was a relaxed day. Some assignments were tricky but now it's all finished.
+
