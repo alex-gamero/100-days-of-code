@@ -250,3 +250,6 @@ Today I had Mobile Graphical Interface Programming class, it was intense, we eve
 
 ### R1D82
 Today I finished my notes for the classes I had this week. 
+
+### R1D83
+Today I finished some assignments for my classes and aplied to some jobs. 
