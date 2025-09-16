@@ -253,3 +253,6 @@ Today I finished my notes for the classes I had this week.
 
 ### R1D83
 Today I finished some assignments for my classes and aplied to some jobs. 
+
+### R1D84
+Today I reviewed some notes from the classes I will have this week.  
