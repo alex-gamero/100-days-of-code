@@ -542,3 +542,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a relaxed day. Some assignments were tricky but now it's all finished.
 
+### Day 84: September 15, Monday
+
+**Today's Progress**: Today I reviewed some notes from the classes I will have this week. 
+
+**Thoughts**: It was a chill day, I had work and the reviewed some concepts.
+
