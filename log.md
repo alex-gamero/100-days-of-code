@@ -548,3 +548,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a chill day, I had work and the reviewed some concepts.
 
+### Day 85: September 16, Tuesday
+
+**Today's Progress**: Today I had Network Programming class, it was really interesting. 
+
+**Thoughts**: Today I had the lab for Netwrok Programming, it took me a while to complete it.
+
