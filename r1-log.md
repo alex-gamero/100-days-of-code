@@ -259,3 +259,6 @@ Today I reviewed some notes from the classes I will have this week.
 
 ### R1D85
 Today I had Network Programming class, it was really interesting. 
+
+### R1D86
+Today I had classes on BI and data analytics and object-oriented Java programming. We did a lot of things today.
