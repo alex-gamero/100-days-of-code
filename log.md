@@ -560,3 +560,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a busy day, lots of classes, labs, and when I got home I had to finish a few things and then start on my class notes, but even so, it was a productive day.
 
+### Day 87: September 18, Thursday
+
+**Today's Progress**: Today I had Netwrk Programming class. We did a lot of theory today. 
+
+**Thoughts**: It was a normal day, lots of classes and class notes, but I had time to relax after all the classes.
+
