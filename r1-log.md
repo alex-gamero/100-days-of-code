@@ -262,3 +262,6 @@ Today I had Network Programming class, it was really interesting.
 
 ### R1D86
 Today I had classes on BI and data analytics and object-oriented Java programming. We did a lot of things today.
+
+### R1D87
+Today I had Netwrk Programming class. We did a lot of theory today. 
