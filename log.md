@@ -554,3 +554,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: Today I had the lab for Netwrok Programming, it took me a while to complete it.
 
+### Day 86: September 17, Wednesday
+
+**Today's Progress**: Today I had classes on BI and data analytics and object-oriented Java programming. We did a lot of things today. 
+
+**Thoughts**: It was a busy day, lots of classes, labs, and when I got home I had to finish a few things and then start on my class notes, but even so, it was a productive day.
+
