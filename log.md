@@ -562,7 +562,13 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 ### Day 87: September 18, Thursday
 
-**Today's Progress**: Today I had Netwrk Programming class. We did a lot of theory today. 
+**Today's Progress**: Today I had Network Programming class. We did a lot of theory today. 
 
 **Thoughts**: It was a normal day, lots of classes and class notes, but I had time to relax after all the classes.
+
+### Day 88: September 19, Friday
+
+**Today's Progress**: Today I had Mobile Graphical Interface Programming class. We did a lab today and some theory. 
+
+**Thoughts**: It was a good day, the classes were really interesting.
 
