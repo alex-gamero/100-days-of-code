@@ -265,3 +265,6 @@ Today I had classes on BI and data analytics and object-oriented Java programmin
 
 ### R1D87
 Today I had Netwrk Programming class. We did a lot of theory today. 
+
+### R1D88
+Today I had Mobile Graphical Interface Programming class. We did a lab today and some theory. 
