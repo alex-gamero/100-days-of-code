@@ -268,3 +268,6 @@ Today I had Netwrk Programming class. We did a lot of theory today.
 
 ### R1D88
 Today I had Mobile Graphical Interface Programming class. We did a lab today and some theory. 
+
+### R1D89
+Today finished some assignments for my classes. 
