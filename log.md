@@ -572,3 +572,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, the classes were really interesting.
 
+### Day 89: September 22, Monday
+
+**Today's Progress**: Today finished some assignments for my classes. 
+
+**Thoughts**: It was a good day, I had work almost all day, but it was a very productive day.
+
