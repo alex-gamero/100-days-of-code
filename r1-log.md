@@ -271,3 +271,6 @@ Today I had Mobile Graphical Interface Programming class. We did a lab today and
 
 ### R1D89
 Today finished some assignments for my classes. 
+
+### R1D90
+Today I had a Network Programming lab.  
