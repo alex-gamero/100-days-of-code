@@ -578,3 +578,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, I had work almost all day, but it was a very productive day.
 
+### Day 90: September 23, Tuesday
+
+**Today's Progress**: Today I had a Network Programming lab.  
+
+**Thoughts**: It was a busy day, weird for a Tuesday, I had a long lab in the morning, then classes and another lab, then applied to jobs for the co-op term.
+
