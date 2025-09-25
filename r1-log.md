@@ -274,3 +274,6 @@ Today finished some assignments for my classes.
 
 ### R1D90
 Today I had a Network Programming lab.  
+
+### R1D90
+Today I had a very difficult BI and Data Analysis lab.  
