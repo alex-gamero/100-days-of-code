@@ -584,3 +584,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a busy day, weird for a Tuesday, I had a long lab in the morning, then classes and another lab, then applied to jobs for the co-op term.
 
+### Day 91: September 24, Wednesday
+
+**Today's Progress**: Today I had a very difficult BI and Data Analysis lab.  
+
+**Thoughts**: It was a busy day, very busy, the lab of today took me 5 hours to complete, that was crazy.
+
