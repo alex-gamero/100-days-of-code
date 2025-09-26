@@ -590,3 +590,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a busy day, very busy, the lab of today took me 5 hours to complete, that was crazy.
 
+### Day 92: September 26, Friday
+
+**Today's Progress**: Today I had Mobile Programming, it was a good class, really interesnting and i also managed to finish the next lab.  
+
+**Thoughts**: It was a very good day, no hard thoughts today!
+
