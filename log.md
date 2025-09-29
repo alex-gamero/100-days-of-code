@@ -596,3 +596,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a very good day, no hard thoughts today!
 
+### Day 93: September 29, Monday
+
+**Today's Progress**: Today I finished a really long lab of BI ans data analytics and aplied to some jobs.  
+
+**Thoughts**: It was a good day, the lab was long though.
+
