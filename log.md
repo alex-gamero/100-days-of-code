@@ -602,3 +602,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, the lab was long though.
 
+### Day 94: September 30, Tuesday
+
+**Today's Progress**: Today I had Systems Anlysis and Design, it was a lof of theory, but it was also inetresting, I learnt a lot. 
+
+**Thoughts**: It was a good day, I also had some time to play volleyball.
+
