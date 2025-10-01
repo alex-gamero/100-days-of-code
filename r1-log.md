@@ -286,3 +286,6 @@ Today I had Mobile Programming, it was a good class, really interesnting and i a
 
 ### R1D94
 Today I had Systems Anlysis and Design, it was a lof of theory, but it was also inetresting, I learnt a lot. 
+
+### R1D95
+Today I had a BI and Data Analytics class, it was a really good, an interesting topic. 
