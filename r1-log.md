@@ -282,4 +282,7 @@ Today I had a very difficult BI and Data Analysis lab.
 Today I had Mobile Programming, it was a good class, really interesnting and i also managed to finish the next lab.  
 
 ### R1D93
-Today I had Mobile Programming, it was a good class, really interesnting and i also managed to finish the next lab.  
+Today I had Mobile Programming, it was a good class, really interesnting and i also managed to finish the next lab. 
+
+### R1D94
+Today I had Systems Anlysis and Design, it was a lof of theory, but it was also inetresting, I learnt a lot. 
