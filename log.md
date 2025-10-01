@@ -608,3 +608,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, I also had some time to play volleyball.
 
+### Day 94: September 31, Wednesday
+
+**Today's Progress**: Today I had a BI and Data Analytics class, it was a really good, an interesting topic. 
+
+**Thoughts**: It was good, I still need to improve, in everything, but I will keep trying my best.
+
