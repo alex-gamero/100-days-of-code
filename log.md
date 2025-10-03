@@ -608,9 +608,15 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, I also had some time to play volleyball.
 
-### Day 94: September 31, Wednesday
+### Day 95: October 01, Wednesday
 
 **Today's Progress**: Today I had a BI and Data Analytics class, it was a really good, an interesting topic. 
 
 **Thoughts**: It was good, I still need to improve, in everything, but I will keep trying my best.
+
+### Day 96: October 03, Friday 
+
+**Today's Progress**: Today I had Mobile Interface class, we looked at how to create diferent pages and go between them. 
+
+**Thoughts**: It was a good day, good classes, a god demo of my labs and a good improvement of my assignments at home.
 
