@@ -289,3 +289,6 @@ Today I had Systems Anlysis and Design, it was a lof of theory, but it was also 
 
 ### R1D95
 Today I had a BI and Data Analytics class, it was a really good, an interesting topic. 
+
+### R1D96
+Today I had Mobile Interface class, we looked at how to create diferent pages and go between them.  
