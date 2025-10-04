@@ -620,3 +620,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, good classes, a god demo of my labs and a good improvement of my assignments at home.
 
+### Day 97: October 04, Saturday 
+
+**Today's Progress**: Today I studied the week's courses to be ready for the exams and reviewed Java code. 
+
+**Thoughts**: It was a good day, calm and pleasant. Being able to review code calmly and without due dates for some huge project is great.
+
