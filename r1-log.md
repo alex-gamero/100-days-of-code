@@ -292,3 +292,6 @@ Today I had a BI and Data Analytics class, it was a really good, an interesting 
 
 ### R1D96
 Today I had Mobile Interface class, we looked at how to create diferent pages and go between them.  
+
+### R1D97
+Today I studied the week's courses to be ready for the exams and reviewed Java code. 
