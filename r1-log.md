@@ -295,3 +295,6 @@ Today I had Mobile Interface class, we looked at how to create diferent pages an
 
 ### R1D97
 Today I studied the week's courses to be ready for the exams and reviewed Java code. 
+
+### R1D98
+Today I was working on code for my Java OOP assignment and also applying for jobs, and I finally got a job interview.
