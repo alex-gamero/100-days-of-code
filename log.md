@@ -626,3 +626,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, calm and pleasant. Being able to review code calmly and without due dates for some huge project is great.
 
+### Day 98: October 05, Sunday 
+
+**Today's Progress**: Today I was working on code for my Java OOP assignment and also applying for jobs, and I finally got a job interview.    
+
+**Thoughts**: It was a good day, calm and pleasant. Being able to finish code for my assignment calmly was really god.
+
