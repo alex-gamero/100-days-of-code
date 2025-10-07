@@ -298,3 +298,6 @@ Today I studied the week's courses to be ready for the exams and reviewed Java c
 
 ### R1D98
 Today I was working on code for my Java OOP assignment and also applying for jobs, and I finally got a job interview.
+
+### R1D99
+Today I hay a Netwrok interfaces lab and a Systems Analysis and Design.
