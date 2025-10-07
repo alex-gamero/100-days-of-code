@@ -632,3 +632,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, calm and pleasant. Being able to finish code for my assignment calmly was really god.
 
+### Day 99: October 06, Tuesday 
+
+**Today's Progress**: Today I hay a Netwrok interfaces lab and a Systems Analysis and Design.    
+
+**Thoughts**: It was a good day, the lab went good and the class was ok, I also had some time to code at night.
+
