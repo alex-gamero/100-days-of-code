@@ -638,3 +638,9 @@ A great opportunity to meet amazing people specialized in AI and in this technol
 
 **Thoughts**: It was a good day, the lab went good and the class was ok, I also had some time to code at night.
 
+### Day 100: October 07, Wednesday 
+
+**Today's Progress**: We made it, day 100, I think that's enough progress for today, I also got an interview today, isn't that just great?.    
+
+**Thoughts**: It is the final day of the 100 Days of Code, It was a really fun journey, I have to repeat something like this more often, Coding is fun.
+
