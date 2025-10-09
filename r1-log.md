@@ -301,3 +301,6 @@ Today I was working on code for my Java OOP assignment and also applying for job
 
 ### R1D99
 Today I hay a Netwrok interfaces lab and a Systems Analysis and Design.
+
+### R1D100
+We made it, day 100, I think that's enough progress for today, I also got an interview today, isn't that just great?
