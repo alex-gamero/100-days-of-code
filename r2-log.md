@@ -12,3 +12,6 @@ Today I had a class on mobile graphical interfaces. I took notes on the course a
 
 ### R2D3
 Today I start studying for next week. I have several midterms and I have to be prepared.
+
+### R2D4
+Today was a day of studying for the first exam tomorrow, Systems Analysis and Design. 
