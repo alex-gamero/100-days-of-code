@@ -17,3 +17,9 @@
 **Today's Progress**: Today I start studying for next week. I have several midterms and I have to be prepared.
 
 **Thoughts**: Today I was able to review and write some code, which was good.
+
+### Day 104: October 13, Monday
+
+**Today's Progress**: Today was a day of studying for the first exam tomorrow, Systems Analysis and Design. 
+
+**Thoughts**: It was a good day, peaceful, and with plenty of time to study everything I needed for the week.
