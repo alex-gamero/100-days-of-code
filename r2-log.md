@@ -15,3 +15,6 @@ Today I start studying for next week. I have several midterms and I have to be p
 
 ### R2D4
 Today was a day of studying for the first exam tomorrow, Systems Analysis and Design. 
+
+### R2D5
+Today I had my first exam, it went really well, now it's time to prepare for tomorrow's exams.
