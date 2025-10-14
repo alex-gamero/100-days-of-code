@@ -23,3 +23,9 @@
 **Today's Progress**: Today was a day of studying for the first exam tomorrow, Systems Analysis and Design. 
 
 **Thoughts**: It was a good day, peaceful, and with plenty of time to study everything I needed for the week.
+
+### Day 105: October 14, Tuesday
+
+**Today's Progress**: Today I had my first exam, it went really well, now it's time to prepare for tomorrow's exams.
+
+**Thoughts**: Today's exam was really easy, just very tedious. There was a lot of writing to do. As a programmer, I don't write on paper very often, all my notes are virtual.
