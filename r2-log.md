@@ -18,3 +18,6 @@ Today was a day of studying for the first exam tomorrow, Systems Analysis and De
 
 ### R2D5
 Today I had my first exam, it went really well, now it's time to prepare for tomorrow's exams.
+
+### R2D6
+Today I had two more exams, they went really well, now it's time to start studying for the exam tomorrow, network interfaces.
