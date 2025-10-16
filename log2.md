@@ -29,3 +29,9 @@
 **Today's Progress**: Today I had my first exam, it went really well, now it's time to prepare for tomorrow's exams.
 
 **Thoughts**: Today's exam was really easy, just very tedious. There was a lot of writing to do. As a programmer, I don't write on paper very often, all my notes are virtual.
+
+### Day 106: October 15, Wednesday
+
+**Today's Progress**: Today I had two more exams, they went really well, now it's time to start studying for the exam tomorrow, network interfaces.
+
+**Thoughts**: Today's exams were very easy in my opinion. They were courses I had mastered, so I had no problem with them. I had a lot of fun.
