@@ -21,3 +21,6 @@ Today I had my first exam, it went really well, now it's time to prepare for tom
 
 ### R2D6
 Today I had two more exams, they went really well, now it's time to start studying for the exam tomorrow, network interfaces.
+
+### R2D7
+Today was a quiet day. I had my last exam of the week, network interfaces, and it went really well.
