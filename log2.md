@@ -41,3 +41,9 @@
 **Today's Progress**: Today was a quiet day. I had my last exam of the week, network interfaces, and it went really well.
 
 **Thoughts**: After the exam, I was able to relax after a long week.
+
+### Day 108: October 17, Saturday
+
+**Today's Progress**: Today was a long day, a long shift at work, but I still reviewed some code at night.
+
+**Thoughts**: Despite everything, I feel very productive these days.
