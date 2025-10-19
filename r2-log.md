@@ -24,3 +24,6 @@ Today I had two more exams, they went really well, now it's time to start studyi
 
 ### R2D7
 Today was a quiet day. I had my last exam of the week, network interfaces, and it went really well.
+
+### R2D8
+Today was a long day, a long shift at work, but I still reviewed some code at night.
