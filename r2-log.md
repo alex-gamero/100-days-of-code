@@ -27,3 +27,6 @@ Today was a quiet day. I had my last exam of the week, network interfaces, and i
 
 ### R2D8
 Today was a long day, a long shift at work, but I still reviewed some code at night.
+
+### R2D9
+Today was also a long day, many hours at work, but I still got home earlier than yesterday.
