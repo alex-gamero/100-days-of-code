@@ -36,13 +36,13 @@
 
 **Thoughts**: Today's exams were very easy in my opinion. They were courses I had mastered, so I had no problem with them. I had a lot of fun.
 
-### Day 107: October 16, Friday
+### Day 107: October 17, Friday
 
 **Today's Progress**: Today was a quiet day. I had my last exam of the week, network interfaces, and it went really well.
 
 **Thoughts**: After the exam, I was able to relax after a long week.
 
-### Day 108: October 18, Sunday
+### Day 108: October 19, Sunday
 
 **Today's Progress**: Today was also a long day, many hours at work, but I still got home earlier than yesterday.
 
