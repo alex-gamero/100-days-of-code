@@ -42,8 +42,8 @@
 
 **Thoughts**: After the exam, I was able to relax after a long week.
 
-### Day 108: October 17, Saturday
+### Day 108: October 18, Sunday
 
-**Today's Progress**: Today was a long day, a long shift at work, but I still reviewed some code at night.
+**Today's Progress**: Today was also a long day, many hours at work, but I still got home earlier than yesterday.
 
-**Thoughts**: Despite everything, I feel very productive these days.
+**Thoughts**: It was a good day, really fun at work. I checked my courses when I got home since some midterm grades came out.
