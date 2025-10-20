@@ -47,3 +47,9 @@
 **Today's Progress**: Today was also a long day, many hours at work, but I still got home earlier than yesterday.
 
 **Thoughts**: It was a good day, really fun at work. I checked my courses when I got home since some midterm grades came out.
+
+### Day 109: October 20, Monday
+
+**Today's Progress**: Today was a good day. I applied for many jobs, reviewed code, and went to work.
+
+**Thoughts**: I feel like we're doing well.
