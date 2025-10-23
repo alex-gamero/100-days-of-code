@@ -26,10 +26,10 @@ Today I had two more exams, they went really well, now it's time to start studyi
 Today was a quiet day. I had my last exam of the week, network interfaces, and it went really well.
 
 ### R2D8
-Today was a long day, a long shift at work, but I still reviewed some code at night.
-
-### R2D9
 Today was also a long day, many hours at work, but I still got home earlier than yesterday.
 
-### R2D10
+### R2D9
 Today was a good day. I applied for many jobs, reviewed code, and went to work.
+
+### R2D10
+Today was a good day. I came up with a new project. It could be fun if it works out. I'll start working on it.
