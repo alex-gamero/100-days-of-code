@@ -36,3 +36,6 @@ Today was a good day. I came up with a new project. It could be fun if it works 
 
 ### R2D11
 It was a quiet day. I was able to apply for jobs, review code, and go to work at night.
+
+### R2D12
+Today there was a lot of progress, quite a bit of work, applying for jobs, and reviewing code.
