@@ -65,3 +65,9 @@
 **Today's Progress**: It was a quiet day. I was able to apply for jobs, review code, and go to work at night.
 
 **Thoughts**: It felt good, I finally made some time to apply for more co-op jobs.
+
+### Day 112: October 26, Sunday
+
+**Today's Progress**: Today there was a lot of progress, quite a bit of work, applying for jobs, and reviewing code.
+
+**My Thoughts**: Even so, it wasn't a good day, but I know everything will get better.
