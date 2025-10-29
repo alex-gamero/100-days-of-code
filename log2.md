@@ -71,3 +71,9 @@
 **Today's Progress**: Today there was a lot of progress, quite a bit of work, applying for jobs, and reviewing code.
 
 **My Thoughts**: Even so, it wasn't a good day, but I know everything will get better.
+
+### Day 113: October 28, Tuesday
+
+**Today's Progress**: Today we returned to classes after reading week. I had a networking lab and another on systems design.
+
+**My Thoughts**: It was a good day, despite all the classes, it was also very peaceful.
