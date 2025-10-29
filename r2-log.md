@@ -39,3 +39,6 @@ It was a quiet day. I was able to apply for jobs, review code, and go to work at
 
 ### R2D12
 Today there was a lot of progress, quite a bit of work, applying for jobs, and reviewing code.
+
+### R2D13
+Today we returned to classes after reading week. I had a networking lab and another on systems design.
