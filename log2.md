@@ -76,4 +76,10 @@
 
 **Today's Progress**: Today we returned to classes after reading week. I had a networking lab and another on systems design.
 
-**My Thoughts**: It was a good day, despite all the classes, it was also very peaceful.
+**Thoughts**: It was a good day, despite all the classes, it was also very peaceful.
+
+### Day 114: October 30, Thursday
+
+**Today's Progress**: Today I had a networking class, and when I got home, I started working on BI and Java projects.
+
+**Thoughts**: It was a good day, it rained a lot so I spent most of the time at home.
