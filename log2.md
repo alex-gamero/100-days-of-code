@@ -83,3 +83,9 @@
 **Today's Progress**: Today I had a networking class, and when I got home, I started working on BI and Java projects.
 
 **Thoughts**: It was a good day, it rained a lot so I spent most of the time at home.
+
+### Day 115: November 02, Sunday
+
+**Today's Progress**: Today I worked, and in the evening I went home to review code.
+
+**Thoughts**: It was a good day. I reviewed some assignment and theory documents in the morning before work.
