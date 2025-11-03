@@ -45,3 +45,6 @@ Today we returned to classes after reading week. I had a networking lab and anot
 
 ### R2D14
 Today I had a networking class, and when I got home, I started working on BI and Java projects.
+
+### R2D15
+Today I worked, and in the evening I went home to review code.
