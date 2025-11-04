@@ -48,3 +48,6 @@ Today I had a networking class, and when I got home, I started working on BI and
 
 ### R2D15
 Today I worked, and in the evening I went home to review code.
+
+### R2D16
+Today I had a network programming lab, which went really well, then a couple of theory classes, and I was able to review some code in the evening.
