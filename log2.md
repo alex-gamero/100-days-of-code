@@ -89,3 +89,9 @@
 **Today's Progress**: Today I worked, and in the evening I went home to review code.
 
 **Thoughts**: It was a good day. I reviewed some assignment and theory documents in the morning before work.
+
+### Day 116: November 04, Tuesday 
+
+**Today's Progress**: Today I had a network programming lab, which went really well, then a couple of theory classes, and I was able to review some code in the evening.
+
+**Thoughts**: Quiet day, everything went according to plan.
