@@ -51,3 +51,6 @@ Today I worked, and in the evening I went home to review code.
 
 ### R2D16
 Today I had a network programming lab, which went really well, then a couple of theory classes, and I was able to review some code in the evening.
+
+### R2D17
+Today I had classes and labs on BI and data analytics. It went really well, and I was able to make progress on quite a few assignments from the program.
