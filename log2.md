@@ -95,3 +95,9 @@
 **Today's Progress**: Today I had a network programming lab, which went really well, then a couple of theory classes, and I was able to review some code in the evening.
 
 **Thoughts**: Quiet day, everything went according to plan.
+
+### Day 117: November 05, Wednesday 
+
+**Today's Progress**: Today I had classes and labs on BI and data analytics. It went really well, and I was able to make progress on quite a few assignments from the program.
+
+**My Thoughts**: It's strange, even though it was a fairly normal day, I can't help feeling a little lost. Maybe it's because of the rain, which makes everything look more depressing than it is. Tomorrow will be a better day. 
