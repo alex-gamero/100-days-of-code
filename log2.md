@@ -101,3 +101,9 @@
 **Today's Progress**: Today I had classes and labs on BI and data analytics. It went really well, and I was able to make progress on quite a few assignments from the program.
 
 **My Thoughts**: It's strange, even though it was a fairly normal day, I can't help feeling a little lost. Maybe it's because of the rain, which makes everything look more depressing than it is. Tomorrow will be a better day. 
+
+### Day 118: November 06, Thursday 
+
+**Today's Progress**: Today I had network programming classes, I learned about the Transport layer, at home I advanced code and reviewed BI. 
+
+**Thoughts**: It was a good day, even more productive than I expected.
