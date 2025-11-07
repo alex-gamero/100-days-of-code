@@ -107,3 +107,9 @@
 **Today's Progress**: Today I had network programming classes, I learned about the Transport layer, at home I advanced code and reviewed BI. 
 
 **Thoughts**: It was a good day, even more productive than I expected.
+
+### Day 119: November 07, Friday 
+
+**Today's Progress**: Today I had a class on mobile programming interfaces. It was really interesting, and I was also able to make progress on one of the labs for the same course. 
+
+**Thoughts**: It was a good day, relaxed, and in the evening I was able to go out with some friends.
