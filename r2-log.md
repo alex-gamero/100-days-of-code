@@ -54,3 +54,6 @@ Today I had a network programming lab, which went really well, then a couple of 
 
 ### R2D17
 Today I had classes and labs on BI and data analytics. It went really well, and I was able to make progress on quite a few assignments from the program.
+
+### R2D18
+Today I had network programming classes, I learned about the Transport layer, at home I advanced code and reviewed BI. 
