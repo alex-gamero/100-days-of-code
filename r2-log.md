@@ -58,5 +58,8 @@ Today I had classes and labs on BI and data analytics. It went really well, and 
 ### R2D18
 Today I had network programming classes, I learned about the Transport layer, at home I advanced code and reviewed BI. 
 
-### R2D18
+### R2D19
 Today I had a class on mobile programming interfaces. It was really interesting, and I was also able to make progress on one of the labs for the same course. 
+
+### R2D20
+Today I had to work, but in the morning I had time to finish the first part of a BI group project. 
