@@ -113,3 +113,9 @@
 **Today's Progress**: Today I had a class on mobile programming interfaces. It was really interesting, and I was also able to make progress on one of the labs for the same course. 
 
 **Thoughts**: It was a good day, relaxed, and in the evening I was able to go out with some friends.
+
+### Day 120: November 09, Sunday 
+
+**Today's Progress**: Today I had to work, but in the morning I had time to finish the first part of a BI group project. 
+
+**Thoughts**: It was a good day, very productive.
