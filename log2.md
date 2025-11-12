@@ -119,3 +119,9 @@
 **Today's Progress**: Today I had to work, but in the morning I had time to finish the first part of a BI group project. 
 
 **Thoughts**: It was a good day, very productive.
+
+### Day 121: November 10, Tuesday 
+
+**Today's Progress**: Today I had classes, an easy lab, and a class that discussed testing cases in the industry, which was quite interesting.
+
+**Thoughts**: It was a good day, I finished many things.
