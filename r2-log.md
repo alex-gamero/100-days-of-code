@@ -63,3 +63,6 @@ Today I had a class on mobile programming interfaces. It was really interesting,
 
 ### R2D20
 Today I had to work, but in the morning I had time to finish the first part of a BI group project. 
+
+### R2D21
+Today I had classes, an easy lab, and a class that discussed testing cases in the industry, which was quite interesting.
