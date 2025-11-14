@@ -120,8 +120,14 @@
 
 **Thoughts**: It was a good day, very productive.
 
-### Day 121: November 10, Tuesday 
+### Day 121: November 11, Tuesday 
 
 **Today's Progress**: Today I had classes, an easy lab, and a class that discussed testing cases in the industry, which was quite interesting.
 
 **Thoughts**: It was a good day, I finished many things.
+
+### Day 122: November 13, Thursday 
+
+**Today's Progress**: Today I had an OOP demo with design patterns, it went pretty well, at home I was able to review network programming.
+
+**Thoughts**: It was a quiet day, I was able to get a lot done, and change four times.
