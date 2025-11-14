@@ -65,4 +65,7 @@ Today I had a class on mobile programming interfaces. It was really interesting,
 Today I had to work, but in the morning I had time to finish the first part of a BI group project. 
 
 ### R2D21
-Today I had classes, an easy lab, and a class that discussed testing cases in the industry, which was quite interesting.
+Today I had classes, an easy lab, and a class that discussed testing cases in the industry, which was quite interesting
+
+### R2D22
+Today I had an OOP demo with design patterns, it went pretty well, at home I was able to review network programming.
