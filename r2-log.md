@@ -69,3 +69,6 @@ Today I had classes, an easy lab, and a class that discussed testing cases in th
 
 ### R2D22
 Today I had an OOP demo with design patterns, it went pretty well, at home I was able to review network programming.
+
+### R2D23
+Today I had a lab demonstration and I also had time to meet up with some friends to finish some pending group work.
