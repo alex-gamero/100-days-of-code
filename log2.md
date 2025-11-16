@@ -143,3 +143,9 @@
 **Today's Progress**: Today I had work, but at night I was able to review pending group work assignments.
 
 **Thoughts**: It was a good day, fun and interesting.
+
+### Day 125: November 16, Sunday 
+
+**Today's Progress**: Today, I had time to catch up on pending tasks, group work, and even apply for jobs. It was a very productive day.
+
+**Thoughts**: It was a good day, it felt greater tahn usual for a Sunday.
