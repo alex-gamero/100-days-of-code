@@ -72,3 +72,6 @@ Today I had an OOP demo with design patterns, it went pretty well, at home I was
 
 ### R2D23
 Today I had a lab demonstration and I also had time to meet up with some friends to finish some pending group work.
+
+### R2D24
+Today I had work, but at night I was able to review pending group work assignments.
