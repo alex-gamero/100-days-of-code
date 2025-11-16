@@ -137,3 +137,9 @@
 **Today's Progress**: Today I had a lab demonstration and I also had time to meet up with some friends to finish some pending group work.
 
 **Thoughts**: A fairly quiet day, full of good news
+
+### Day 124: November 15, Saturday 
+
+**Today's Progress**: Today I had work, but at night I was able to review pending group work assignments.
+
+**Thoughts**: It was a good day, fun and interesting.
