@@ -149,3 +149,9 @@
 **Today's Progress**: Today, I had time to catch up on pending tasks, group work, and even apply for jobs. It was a very productive day.
 
 **Thoughts**: It was a good day, it felt greater tahn usual for a Sunday.
+
+### Day 126: November 23, Sunday 
+
+**Today's Progress**: Today I was able to finish a group project. The presentation is next week, and everything is ready.
+
+**Thoughts**: It was a good day, full of memories for some reason.
