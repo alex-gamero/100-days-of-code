@@ -81,3 +81,6 @@ Today, I had time to catch up on pending tasks, group work, and even apply for j
 
 ### R2D26
 Today I was able to finish a group project. The presentation is next week, and everything is ready.
+
+### R2D27
+These last few weeks I did a lot of group work for different courses. We used GitHub for most of themm it was really fun.
