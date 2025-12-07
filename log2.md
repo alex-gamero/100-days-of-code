@@ -155,3 +155,9 @@
 **Today's Progress**: Today I was able to finish a group project. The presentation is next week, and everything is ready.
 
 **Thoughts**: It was a good day, full of memories for some reason.
+
+### Day 127: December 06, Saturday 
+
+**Progress**: These last few weeks I did a lot of group work for different courses. We used GitHub for most of themm it was really fun.
+
+**Thoughts**: It's been a somewhat hectic few weeks. Next week is my final exams, and then I'll have the holidays off.
