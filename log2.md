@@ -161,3 +161,9 @@
 **Progress**: These last few weeks I did a lot of group work for different courses. We used GitHub for most of themm it was really fun.
 
 **Thoughts**: It's been a somewhat hectic few weeks. Next week is my final exams, and then I'll have the holidays off.
+
+### Day 128: December 10, Wednesday 
+
+**Today's Progress**: We are already in exam week. I was able to make progress on several things. I have already taken two exams, and today I have one more.
+
+**Thoughts**: It was a good day, I reviewed a lot and I feel prepared.
