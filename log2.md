@@ -167,3 +167,9 @@
 **Today's Progress**: We are already in exam week. I was able to make progress on several things. I have already taken two exams, and today I have one more.
 
 **Thoughts**: It was a good day, I reviewed a lot and I feel prepared.
+
+### Day 129: January 20, Tuesday
+
+**Today's Progress**: New year, new language, today I started to learn Python.
+
+**Thoughts**: It was a good day, a lot of classes and also some time to practice some new concepts.
