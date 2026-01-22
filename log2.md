@@ -173,3 +173,9 @@
 **Today's Progress**: New year, new language, today I started to learn Python.
 
 **Thoughts**: It was a good day, a lot of classes and also some time to practice some new concepts.
+
+### Day 130: January 21, Wednesday
+
+**Today's Progress**: Today we stopped with Python for a moment and focused in Databases with Oracle and Enterpise Programming with Java.
+
+**Thoughts**: It was a good day, very productive and i even got some time to rest!
