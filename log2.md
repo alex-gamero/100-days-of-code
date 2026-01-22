@@ -179,3 +179,9 @@
 **Today's Progress**: Today we stopped with Python for a moment and focused in Databases with Oracle and Enterpise Programming with Java.
 
 **Thoughts**: It was a good day, very productive and i even got some time to rest!
+
+### Day 131: January 22, Thursday
+
+**Today's Progress**: Today I got information from a client for my Software Development Project, it's time to start the project!
+
+**Thoughts**: It was a good day, I had to check a lot of info, but I know it will be usefull later!
