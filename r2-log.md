@@ -93,3 +93,6 @@ New year, new language, today I started to learn Python.
 
 ### R2D30
 Today we stopped with Python for a moment and focused in Databases with Oracle and Enterpise Programming with Java.
+
+### R2D31
+Today I got information from a client for my Software Development Project, it's time to start the project!
