@@ -90,3 +90,6 @@ We are already in exam week. I was able to make progress on several things. I ha
 
 ### R2D29
 New year, new language, today I started to learn Python.
+
+### R2D30
+Today we stopped with Python for a moment and focused in Databases with Oracle and Enterpise Programming with Java.
