@@ -185,3 +185,9 @@
 **Today's Progress**: Today I got information from a client for my Software Development Project, it's time to start the project!
 
 **Thoughts**: It was a good day, I had to check a lot of info, but I know it will be usefull later!
+
+### Day 132: January 23, Friday
+
+**Today's Progress**: Today I learned more about Python, variables, casting, naming conventions, is't a really interesting language!
+
+**Thoughts**: It was a good day, a little bit cold, but that is usual for Ottawa
