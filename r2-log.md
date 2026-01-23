@@ -96,3 +96,6 @@ Today we stopped with Python for a moment and focused in Databases with Oracle a
 
 ### R2D31
 Today I got information from a client for my Software Development Project, it's time to start the project!
+
+### R2D32
+Today I learned more about Python, variables, casting, naming conventions, is't a really interesting language!
