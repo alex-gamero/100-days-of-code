@@ -99,3 +99,6 @@ Today I got information from a client for my Software Development Project, it's 
 
 ### R2D32
 Today I learned more about Python, variables, casting, naming conventions, is't a really interesting language!
+
+### R2D33
+Today I continued working with Python and also started communicating with the client for the website project.
