@@ -191,3 +191,9 @@
 **Today's Progress**: Today I learned more about Python, variables, casting, naming conventions, is't a really interesting language!
 
 **Thoughts**: It was a good day, a little bit cold, but that is usual for Ottawa
+
+### Day 133: January 25, Sunday
+
+**Today's Progress**: Today I continued working with Python and also started communicating with the client for the website project.
+
+**Thoughts**: I think the implementation of the website will be somewhat complex, but with my team, I am sure it will be possible.
