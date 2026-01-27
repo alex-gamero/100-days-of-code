@@ -197,3 +197,9 @@
 **Today's Progress**: Today I continued working with Python and also started communicating with the client for the website project.
 
 **Thoughts**: I think the implementation of the website will be somewhat complex, but with my team, I am sure it will be possible.
+
+### Day 134: January 27, Tuesday
+
+**Today's Progress**: Today We have more Python! I want to finish my course to already start doing some projects!
+
+**Thoughts**: I just need like 6 more hours to finish the course, but I think it will take a little bit more of time.
