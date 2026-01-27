@@ -102,3 +102,6 @@ Today I learned more about Python, variables, casting, naming conventions, is't 
 
 ### R2D33
 Today I continued working with Python and also started communicating with the client for the website project.
+
+### R2D34
+Today We have more Python! I want to finish my course to already start doing some projects!
